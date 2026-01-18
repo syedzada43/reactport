@@ -1,0 +1,7 @@
+{
+  "name": "Abdullah Hashmi Portfolio",
+  "description": "A mobile-app styled portfolio for Abdullah Hashmi, a Full Stack Developer & AI Integrator.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
